@@ -114,8 +114,6 @@ python-multipart==0.0.20
 python-slugify==8.0.4
 python-socketio==5.12.1
 pytorch-lightning==2.3.3
-pytz==2024.1
-pywin32==306
 pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 pyzmq==26.0.3
