@@ -9,9 +9,9 @@ To get the web app working, a few steps need to be followed.
 - As we have node installed just run "npm install"  (This installs all dependencies for the web app)
 - Everything is set, in order to run the backend, simply run the "OCRapp.py" using the python interpreter
   The first run will take a while as the dataset needs to be downloaded. 
-- The terminal will have some lines like this "Debugger is active!
- * Debugger PIN: 417-664-050"
-- Now open a new terminal within the editor and go to the client folder "cd client"
+- The terminal will have some lines like this "Debugger is active! 
+  Debugger PIN: 417-664-050"
+- Now open a new terminal within the editor and go to the client folder "cd client". If running in a virtual environment make sure it's activated again
 - Run "npm run dev"   (This starts the frontend)
 - Navigate to the address shown there (http://localhost:5173/) for example
 - Now upload any of the images available in the image folder or simply upload a new image with your own text
