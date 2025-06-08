@@ -8,7 +8,7 @@ To get the web app working, a few steps need to be followed.
 - Now move to the client subfolder using "cd client"
 - As we have node installed just run "npm install"  (This installs all dependencies for the web app)
 - In case you get an error "..npm.ps1 cannot be loaded because running scripts is disabled on this system..." then run this command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
-- Everything is set, in order to run the backend, simply run the "OCRapp.py" using the python interpreter
+- Everything is set, in order to run the backend, simply run the "OCRapp.py" from the project folder using the python interpreter
   The first run will take a while as the dataset needs to be downloaded. 
 - The terminal will have some lines like this "Debugger is active! 
   Debugger PIN: 417-664-050"
