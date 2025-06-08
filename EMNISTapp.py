@@ -150,7 +150,7 @@ ModelPath.mkdir(parents= True,exist_ok= True)
 
 ModelName = "EMNISTV1.pth"
 ModelSavePath = ModelPath / ModelName   
-model.load_state_dict(torch.load(ModelSavePath))
+model.load_state_dict(torch.load(ModelSavePath, map_location=torch.device('cpu')))
 
 lossfn = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(params = model.parameters(),
