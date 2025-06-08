@@ -1,6 +1,6 @@
 This is the official repo of the OCR web app designed for the MLBD course. 
 To get the web app working, a few steps need to be followed. 
-- Install node.js from  https://nodejs.org/en/download  (to run the frontend)
+- Install node.js from  https://nodejs.org/en/download  (to run the frontend). Add to PATH variable if necessary
 - Download the ocrapp repo as a zip file
 - Once inside the folder, create a virtual environment if needed (optional)
 - Open the terminal from this folder in any editor (VS Code is tried and tested)
