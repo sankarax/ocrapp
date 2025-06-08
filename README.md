@@ -1,4 +1,3 @@
-![ocr](https://github.com/user-attachments/assets/5132a128-5998-46d5-970d-bfad43455a6b)
 This is the official repo of the OCR web app designed for the MLBD course. 
 To get the web app working, a few steps need to be followed. 
 - Install node.js from  https://nodejs.org/en/download  (to run the frontend). Add to PATH variable if necessary
