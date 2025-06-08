@@ -1,0 +1,11 @@
+einops
+Flask
+flask_cors
+matplotlib
+numpy
+opencv_python
+Pillow
+scipy
+torch
+torchvision
+tqdm
